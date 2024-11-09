@@ -1,2 +1,2 @@
-# celest_tech
-le site web de celest tech
+# celest-tech
+le site web vitrine de Celest tech
